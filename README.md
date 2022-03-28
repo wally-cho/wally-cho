@@ -23,10 +23,10 @@
 
 ## Education & Experience📗
 2022.05. ~ 현재
-- 위대한상상
+- 위대한상상(Java Backend Developer)
 
 2019.11. ~ 2022.04.
-- 아이지오
+- 아이지오(Web Developer)
 
 2019.05. ~ 2019.11.
 - 비트캠프-자바기반 웹&앱 개발자 양성과정
