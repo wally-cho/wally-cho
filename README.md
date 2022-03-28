@@ -20,18 +20,18 @@
 ### Book
 empty
 
-#### learning
+#### Learning
 JPA 테스트주도개발
 
 ## Education & Experience
 2022.05. ~ 현재
-위대한상상
+- 위대한상상
 
 2019.11. ~ 2022.04.
-아이지오
+- 아이지오
 
 2019.05. ~ 2019.11.
-비트캠프-자바기반 웹&앱 개발자 양성과정
+- 비트캠프-자바기반 웹&앱 개발자 양성과정
 
 <!--
 **kyumincho/kyumincho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
