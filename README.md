@@ -17,11 +17,9 @@
 ### Etc
 <img src="https://img.shields.io/badge/%20-Git-pink"/> <img src="https://img.shields.io/badge/%20-SVN-gray"/>
 
-### Book
-empty
-
 ### Learning
-JPA 테스트주도개발
+-JPA
+-테스트주도개발(켄트백)
 
 ## Education & Experience📗
 2022.05. ~ 현재
