@@ -15,7 +15,13 @@
 <img src="https://img.shields.io/badge/%20-Java-orange"/> <img src="https://img.shields.io/badge/%20-Spring Framework-green"/> <img src="https://img.shields.io/badge/%20-SpringBoot-green"/> <img src="https://img.shields.io/badge/%20-MyBatis-blue"/> <img src="https://img.shields.io/badge/%20-Oracle-yellow"/>
 
 ### Etc
-<img src="https://img.shields.io/badge/%20-Git-yellow"/> <img src="https://img.shields.io/badge/%20-Svn-yellow"/>
+<img src="https://img.shields.io/badge/%20-Git-pink"/> <img src="https://img.shields.io/badge/%20-SVN-pink"/>
+
+
+## Education & Experience
+2019. 05. ~ 2019. 11.   비트캠프-자바기반 웹&앱 개발자 양성과정
+2019. 11. ~ 2022. 04.   아이지오
+2022. 05. ~ 현재        위대한상상
 
 <!--
 **kyumincho/kyumincho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
