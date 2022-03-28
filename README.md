@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/%20-Java-orange"/> <img src="https://img.shields.io/badge/%20-Spring Framework-green"/> <img src="https://img.shields.io/badge/%20-SpringBoot-green"/> <img src="https://img.shields.io/badge/%20-MyBatis-blue"/> <img src="https://img.shields.io/badge/%20-Oracle-yellow"/>
 
 ### Etc
+<img src="https://img.shields.io/badge/%20-Git-yellow"/> <img src="https://img.shields.io/badge/%20-Svn-yellow"/>
 
 <!--
 **kyumincho/kyumincho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
