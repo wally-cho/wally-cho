@@ -9,11 +9,7 @@
 ### Frontend
 
 ### Backend
-<img src="https://img.shields.io/badge/%20-Java-yellowgreen"/>
-<img src="https://img.shields.io/badge/%20-Spring Framework-green"/>
-<img src="https://img.shields.io/badge/%20-SpringBoot-green"/>
-<img src="https://img.shields.io/badge/%20-MyBatis-blue"/>
-<img src="https://img.shields.io/badge/%20-Oracle-yellowgreen"/>
+<img src="https://img.shields.io/badge/%20-Java-yellowgreen"/><img src="https://img.shields.io/badge/%20-Spring Framework-green"/><img src="https://img.shields.io/badge/%20-SpringBoot-green"/><img src="https://img.shields.io/badge/%20-MyBatis-blue"/><img src="https://img.shields.io/badge/%20-Oracle-yellowgreen"/>
 
 ### Etc
 
