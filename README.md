@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/%20-HTML-yellowgreen"/> <img src="https://img.shields.io/badge/%20-CSS-yellowgreen"/> <img src="https://img.shields.io/badge/%20-ES6-yellowgreen"/> <img src="https://img.shields.io/badge/%20-Vue-yellowgreen"/> <img src="https://img.shields.io/badge/%20-JSP-yellowgreen"/> <img src="https://img.shields.io/badge/%20-Thymeleaf-yellowgreen"/>
 
 ### Backend
-<img src="https://img.shields.io/badge/%20-Java-yellowgreen"/> <img src="https://img.shields.io/badge/%20-Spring Framework-green"/> <img src="https://img.shields.io/badge/%20-SpringBoot-green"/> <img src="https://img.shields.io/badge/%20-MyBatis-blue"/> <img src="https://img.shields.io/badge/%20-Oracle-yellow"/>
+<img src="https://img.shields.io/badge/%20-Java-orange"/> <img src="https://img.shields.io/badge/%20-Spring Framework-green"/> <img src="https://img.shields.io/badge/%20-SpringBoot-green"/> <img src="https://img.shields.io/badge/%20-MyBatis-blue"/> <img src="https://img.shields.io/badge/%20-Oracle-yellow"/>
 
 ### Etc
 
