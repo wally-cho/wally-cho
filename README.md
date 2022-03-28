@@ -9,7 +9,7 @@
 업무에서 경험했거나 학습했던 기술들 입니다.
 
 ### Frontend
-<img src="https://img.shields.io/badge/%20-HTML-yellowgreen"/> <img src="https://img.shields.io/badge/%20-CSS-yellowgreen"/> <img src="https://img.shields.io/badge/%20-ES6-yellowgreen"/> <img src="https://img.shields.io/badge/%20-Vue-yellowgreen"/> <img src="https://img.shields.io/badge/%20-JSP-yellowgreen"/> <img src="https://img.shields.io/badge/%20-Thymeleaf-yellowgreen"/>
+<img src="https://img.shields.io/badge/%20-HTML-yellowgreen"/> <img src="https://img.shields.io/badge/%20-CSS-yellowgreen"/> <img src="https://img.shields.io/badge/%20-ES6-yellowgreen"/> <img src="https://img.shields.io/badge/%20-Vue-yellowgreen"/> <img src="https://img.shields.io/badge/%20-JSP-yellowgreen"/> <img src="https://img.shields.io/badge/%20-Thymeleaf-yellowgreen"/> <img src="https://img.shields.io/badge/%20-OZ Report-yellowgreen"/>
 
 ### Backend
 <img src="https://img.shields.io/badge/%20-Java-orange"/> <img src="https://img.shields.io/badge/%20-Spring Framework-green"/> <img src="https://img.shields.io/badge/%20-SpringBoot-green"/> <img src="https://img.shields.io/badge/%20-MyBatis-blue"/> <img src="https://img.shields.io/badge/%20-Oracle-yellow"/> <img src="https://img.shields.io/badge/%20-Junit-lightblue"/>
