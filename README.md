@@ -15,11 +15,11 @@
 <img src="https://img.shields.io/badge/%20-Java-orange"/> <img src="https://img.shields.io/badge/%20-Spring Framework-green"/> <img src="https://img.shields.io/badge/%20-SpringBoot-green"/> <img src="https://img.shields.io/badge/%20-MyBatis-blue"/> <img src="https://img.shields.io/badge/%20-Oracle-yellow"/> <img src="https://img.shields.io/badge/%20-Junit-lightblue"/>
 
 ### Etc
-<img src="https://img.shields.io/badge/%20-Git-pink"/> <img src="https://img.shields.io/badge/%20-SVN-gray"/>
+<img src="https://img.shields.io/badge/%20-Git-pink"/> <img src="https://img.shields.io/badge/%20-SVN-gray"/> <img src="https://img.shields.io/badge/%20-ApacheTomcat-ECDB40"/> <img src="https://img.shields.io/badge/%20-Resin-3C65D5"/>
 
 ### Learning
--JPA
--테스트주도개발(켄트백)
+- JPA
+- 테스트주도개발(켄트백)
 
 ## Education & Experience📗
 2022.05. ~ 현재
