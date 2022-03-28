@@ -5,7 +5,7 @@
 
 인프런, 책을 통해 주로 학습하고 있습니다.
 
-## Skill
+## Skill🛠
 업무에서 경험했거나 학습했던 기술들 입니다.
 
 ### Frontend
@@ -20,10 +20,10 @@
 ### Book
 empty
 
-#### Learning
+### Learning
 JPA 테스트주도개발
 
-## Education & Experience
+## Education & Experience📗
 2022.05. ~ 현재
 - 위대한상상
 
