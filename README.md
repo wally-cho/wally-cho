@@ -6,7 +6,7 @@
 인프런, 책을 통해 주로 학습하고 있습니다.
 
 ## Skill🛠
-업무에서 경험했거나 학습했던 기술들 입니다.
+업무에서 경험했거나 개인적으로 학습했던 기술들 입니다.
 
 ### Frontend
 <img src="https://img.shields.io/badge/%20-HTML-EC4D4D"/> <img src="https://img.shields.io/badge/%20-CSS-71D8EC"/> <img src="https://img.shields.io/badge/%20-ES6-F6F63F"/> <img src="https://img.shields.io/badge/%20-Vue-7DF06B"/> <img src="https://img.shields.io/badge/%20-JSP-F65D90"/> <img src="https://img.shields.io/badge/%20-Thymeleaf-2FAE48"/> <img src="https://img.shields.io/badge/%20-OZ Report-F7A94E"/>
