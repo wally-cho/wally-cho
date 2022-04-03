@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/%20-Git-F3838E"/> <img src="https://img.shields.io/badge/%20-SVN-gray"/> <img src="https://img.shields.io/badge/%20-Apache Tomcat-ECDB40"/> <img src="https://img.shields.io/badge/%20-Resin-3C65D5"/>
 
 ### Learning
-- 객체지향프로그래밍 입문(최범균)
+- 자바 ORM 표준 JPA 프로그래밍 - 기본편
 - 테스트주도개발(켄트백)
 
 ## Education & Experience📗
