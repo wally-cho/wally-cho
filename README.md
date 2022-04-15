@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/%20-Git-F3838E"/> <img src="https://img.shields.io/badge/%20-SVN-gray"/> <img src="https://img.shields.io/badge/%20-Apache Tomcat-ECDB40"/> <img src="https://img.shields.io/badge/%20-Resin-3C65D5"/>
 
 ### Learning
-- 자바 ORM 표준 JPA 프로그래밍 - 기본편
+- 인프런 강의(김영한의 스프링 부트와 JPA 실무 완전 정복 로드맵) 학습
 - 테스트주도개발(켄트백)
 
 ## Education & Experience📗
