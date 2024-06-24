@@ -17,8 +17,6 @@
 ### Etc
 <img src="https://img.shields.io/badge/%20-Git-F3838E"/> <img src="https://img.shields.io/badge/%20-SVN-gray"/> <img src="https://img.shields.io/badge/%20-Apache Tomcat-ECDB40"/> <img src="https://img.shields.io/badge/%20-Resin-3C65D5"/>
 
-### Learning
-- 테스트주도개발(켄트백)
 
 ## Education & Experience📗
 2022.05. ~ 현재
