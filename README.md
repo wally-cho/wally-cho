@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/%20-Java-orange"/> <img src="https://img.shields.io/badge/%20-Python-red"/> <img src="https://img.shields.io/badge/%20-SpringBoot-green"/> <img src="https://img.shields.io/badge/%20-MyBatis-blue"/> <img src="https://img.shields.io/badge/%20-Oracle-yellow"/> <img src="https://img.shields.io/badge/%20-MySQL-puple"/> <img src="https://img.shields.io/badge/%20-JPA-C29F6D"/>
 
 ### Etc
-<img src="https://img.shields.io/badge/%20-Git-F3838E"/> <img src="https://img.shields.io/badge/%20-SVN-gray"/> <img src="https://img.shields.io/badge/%20-Apache Tomcat-ECDB40"/> <img src="https://img.shields.io/badge/%20-Resin-3C65D5"/>
+<img src="https://img.shields.io/badge/%20-Git-F3838E"/> <img src="https://img.shields.io/badge/%20-SVN-gray"/> <img src="https://img.shields.io/badge/%20-Apache Tomcat-ECDB40"/> <img src="https://img.shields.io/badge/%20-Nginx-green"/> <img src="https://img.shields.io/badge/%20-Resin-3C65D5"/>
 
 
 ## Education & Experience📗
