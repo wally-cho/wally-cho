@@ -8,7 +8,7 @@
 업무에서 경험했거나 개인적으로 학습했던 기술들 입니다.
 
 ### Frontend
-<img src="https://img.shields.io/badge/%20-HTML-EC4D4D"/> <img src="https://img.shields.io/badge/%20-CSS-71D8EC"/> <img src="https://img.shields.io/badge/%20-ES6-F6F63F"/> <img src="https://img.shields.io/badge/%20-Vue-7DF06B"/> <img src="https://img.shields.io/badge/%20-REACT-71D8EC"/> <img src="https://img.shields.io/badge/%20-JSP-F65D90"/> <img src="https://img.shields.io/badge/%20-Thymeleaf-2FAE48"/> <img src="https://img.shields.io/badge/%20-OZ Report-F7A94E"/>
+<img src="https://img.shields.io/badge/%20-HTML-EC4D4D"/> <img src="https://img.shields.io/badge/%20-CSS-71D8EC"/> <img src="https://img.shields.io/badge/%20-ES6-F6F63F"/> <img src="https://img.shields.io/badge/%20-Vue-7DF06B"/> <img src="https://img.shields.io/badge/%20-React-71D8EC"/> <img src="https://img.shields.io/badge/%20-JSP-F65D90"/> <img src="https://img.shields.io/badge/%20-Thymeleaf-2FAE48"/> <img src="https://img.shields.io/badge/%20-OZ Report-F7A94E"/>
 
 ### Backend
 <img src="https://img.shields.io/badge/%20-Java-orange"/> <img src="https://img.shields.io/badge/%20-Python-red"/> <img src="https://img.shields.io/badge/%20-SpringBoot-green"/> <img src="https://img.shields.io/badge/%20-MyBatis-blue"/> <img src="https://img.shields.io/badge/%20-Oracle-yellow"/> <img src="https://img.shields.io/badge/%20-MySQL-puple"/> <img src="https://img.shields.io/badge/%20-JPA-C29F6D"/>
