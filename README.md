@@ -15,14 +15,3 @@
 
 ### Etc
 <img src="https://img.shields.io/badge/%20-Git-F3838E"/> <img src="https://img.shields.io/badge/%20-SVN-gray"/> <img src="https://img.shields.io/badge/%20-Apache Tomcat-ECDB40"/> <img src="https://img.shields.io/badge/%20-Nginx-green"/> <img src="https://img.shields.io/badge/%20-Resin-3C65D5"/>
-
-
-## Education & Experience📗
-2022.05. ~ 현재
-- 위대한상상(Java Backend Developer)
-
-2019.11. ~ 2022.04.
-- 아이지오(Web Developer)
-
-2019.05. ~ 2019.11.
-- 비트캠프-자바기반 웹&앱 개발자 양성과정
